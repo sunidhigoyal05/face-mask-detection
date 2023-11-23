@@ -1,5 +1,7 @@
 # Face Mask Detection using YOLO V6
 
+<img width="502" alt="Screenshot 2023-11-22 at 11 08 46 PM" src="https://github.com/sunidhigoyal05/face-mask-detection/assets/105047166/439322b5-6759-481c-803f-394ac23bf94c">
+
 
 
 ## Overview
